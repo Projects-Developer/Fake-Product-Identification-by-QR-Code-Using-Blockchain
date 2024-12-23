@@ -1,6 +1,8 @@
 # Fake-Product-Identification-by-QR-Code-Using-Blockchain
 The Fake Product Identification by QR Code Using Blockchain project With Code, Documents And Video tutorial
 
+![Fake Product](https://github.com/user-attachments/assets/d557ab77-556d-4b7b-a665-cbe190214e73)
+
 ## Youtube Video: https://youtu.be/8nVStd41gxE?si=7syEhGeOpDwGtkId
 
 ## abstract: 
