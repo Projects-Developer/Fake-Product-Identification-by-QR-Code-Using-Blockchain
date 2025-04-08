@@ -30,16 +30,10 @@ Keywords: Blockchain, QR Code, Product Authentication, Fake Product Detection, S
 
 ### Need Code, Documents & Explanation video ? 
 
-## How to Reach me :
+### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
 
-### Mail : vatshayan007@gmail.com 
+### 🌐 Website: https://www.finalproject.in/
 
-### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### Website : https://www.finalproject.in/
-
-### Contact me for any kind of help on projects.
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-
-Mail/Message me for Projects Help 🙏🏻
+### 💻 Computer Science Projects: https://www.computer-science-project.in/
